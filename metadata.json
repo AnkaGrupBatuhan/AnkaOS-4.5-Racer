@@ -1,0 +1,6 @@
+{
+  "name": "AnkaOS 4.5 Racer Edition",
+  "description": "High-performance desktop operating system environment featuring a virtual file system, AnkaBrowser without iframe restrictions, AnkaCode Studio IDE, live telemetry Task Manager, Python-powered Terminal, and AnkaRacer 3D.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
